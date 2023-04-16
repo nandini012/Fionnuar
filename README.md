@@ -9,5 +9,5 @@
 ### 3. Press GO button and Fionnuar will take you to the contest page.
 
 ## Author
-- [Shashank Taliwal](https://github.com/shashank-taliwal)
+- [Nandini Routh](https://github.com/nandini012)
 
